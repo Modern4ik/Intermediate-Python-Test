@@ -1,0 +1,16 @@
+{
+    "notes": [
+        {
+            "id": 1,
+            "name": "EDIT_TEST",
+            "content": "EDIT_TEST",
+            "date": "2023-10-08 16:28:49"
+        },
+        {
+            "id": 2,
+            "name": "TEST2",
+            "content": "TEST2",
+            "date": "2023-10-08 16:28:26"
+        }
+    ]
+}
